@@ -1,7 +1,6 @@
-## 📷 Demo Links
+## 📷 Demo Link
 
-- [GitHub Pages](https://)
-- [Vercel](https://)
+- [GitHub Pages](https://xkintaro.github.io/memories-pm/)
 
 ## 📋 About
 
