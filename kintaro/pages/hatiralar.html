@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="tr">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Kintaro - Hatiralar</title>
+  <link rel="stylesheet" href="../css/main.css" />
+</head>
+
+<body>
+  <div class="container">
+    <div class="navbar">
+      <div class="navbar-header">
+        <h1 class="navbar-logo">KINTARO<span>WEB</span></h1>
+      </div>
+      <div class="navbar-links">
+        <ul>
+          <li><a href="../../index.html">ANASAYFA</a></li>
+          <li><a href="hatiralar.html">HATIRALAR</a></li>
+          <li><a href="hakkimda.html">HAKKIMDA</a></li>
+        </ul>
+      </div>
+    </div>
+    <!--main-->
+    <div class="main">
+      <div class="banner-hatiralar"></div>
+
+      <div class="hatiralar">
+        <div class="hatiralar-title">
+          <h1>HATIRALAR</h1>
+        </div>
+        <div class="hatiralar-content">
+          <div class="box1">
+            <img src="../img/hatiralar/33_optimized.webp" />
+          </div>
+
+          <div class="box1">
+            <img src="../img/hatiralar/4_optimized.webp" />
+          </div>
+          <div class="box1">
+            <img src="../img/hatiralar/5_optimized.webp" />
+          </div>
+          <div class="box1">
+            <img src="../img/hatiralar/6_optimized.webp" />
+          </div>
+          <div class="box1">
+            <img src="../img/hatiralar/7_optimized.webp" />
+          </div>
+          <div class="box1">
+            <img src="../img/hatiralar/8_optimized.webp" />
+          </div>
+          <div class="box1">
+            <img src="../img/hatiralar/9_optimized.webp" />
+          </div>
+          <div class="box1">
+            <img src="../img/hatiralar/10_optimized.webp" />
+          </div>
+          <div class="box1">
+            <img src="../img/hatiralar/11_optimized.webp" />
+          </div>
+          <div class="box1">
+            <img src="../img/hatiralar/12_optimized.webp" />
+          </div>
+          <div class="box1">
+            <img src="../img/hatiralar/13_optimized.webp" />
+          </div>
+          <div class="box1">
+            <img src="../img/hatiralar/14_optimized.webp" />
+          </div>
+          <div class="box1">
+            <img src="../img/hatiralar/15_optimized.webp" />
+          </div>
+          <div class="box1">
+            <img src="../img/hatiralar/16_optimized.webp" />
+          </div>
+          <div class="box1">
+            <img src="../img/hatiralar/17_optimized.webp" />
+          </div>
+          <div class="box1">
+            <img src="../img/hatiralar/18_optimized.webp" />
+          </div>
+          <div class="box1">
+            <img src="../img/hatiralar/19_optimized.webp" />
+          </div>
+          <div class="box1">
+            <img src="../img/hatiralar/20_optimized.webp" />
+          </div>
+          <div class="box1">
+            <img src="../img/hatiralar/21_optimized.webp" />
+          </div>
+          <div class="box1">
+            <img src="../img/hatiralar/22_optimized.webp" />
+          </div>
+          <div class="box1">
+            <img src="../img/hatiralar/23_optimized.webp" />
+          </div>
+          <div class="box1">
+            <img src="../img/hatiralar/24_optimized.webp" />
+          </div>
+          <div class="box1">
+            <img src="../img/hatiralar/25_optimized.webp" />
+          </div>
+          <div class="box1">
+            <img src="../img/hatiralar/26_optimized.webp" />
+          </div>
+          <div class="box1">
+            <img src="../img/hatiralar/27_optimized.webp" />
+          </div>
+          <div class="box1">
+            <img src="../img/hatiralar/28_optimized.webp" />
+          </div>
+          <div class="box1">
+            <img src="../img/hatiralar/29_optimized.webp" />
+          </div>
+          <div class="box1">
+            <img src="../img/hatiralar/30_optimized.webp" />
+          </div>
+          <div class="box1">
+            <img src="../img/hatiralar/31_optimized.webp" />
+          </div>
+          <div class="box1">
+            <img src="../img/hatiralar/32_optimized.webp" />
+          </div>
+          <div class="box1">
+            <img src="../img/hatiralar/34_optimized.webp" />
+          </div>
+          <div class="box1">
+            <img src="../img/hatiralar/35_optimized.webp" />
+          </div>
+          <div class="box1">
+            <img src="../img/hatiralar/36_optimized.webp" />
+          </div>
+          <div class="box1">
+            <img src="../img/hatiralar/37_optimized.webp" />
+          </div>
+          <div class="box1">
+            <img src="../img/hatiralar/38_optimized.webp" />
+          </div>
+          <div class="box1">
+            <img src="../img/hatiralar/39_optimized.webp" />
+          </div>
+          <div class="box1">
+            <img src="../img/hatiralar/40_optimized.webp" />
+          </div>
+          <div class="box1">
+            <img src="../img/hatiralar/41_optimized.webp" />
+          </div>
+          <div class="box1">
+            <img src="../img/hatiralar/42_optimized.webp" />
+          </div>
+        </div>
+        <div class="zoom-hatiralar">
+          <span>&times;</span>
+          <img src="../img/hatiralar/1.webp" />
+        </div>
+      </div>
+    </div>
+  </div>
+  <script>
+    document.querySelectorAll(".hatiralar-content img").forEach((box1) => {
+      box1.onclick = () => {
+        document.querySelector(".zoom-hatiralar").style.display = "block";
+        document.querySelector(".zoom-hatiralar img").src =
+          box1.getAttribute("src");
+      };
+    });
+    document.querySelector(".zoom-hatiralar span").onclick = () => {
+      document.querySelector(".zoom-hatiralar").style.display = "none";
+    };
+  </script>
+</body>
+
+</html>
