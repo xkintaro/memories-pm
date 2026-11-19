@@ -19,6 +19,7 @@
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
 
   <p>
@@ -40,17 +41,17 @@
 
 ## <a id="about"></a> 📋 Hakkında
 
-**Memories PM**, ilk projelerimden biridir. HTML ve CSS öğrenirken, PUBG'de arkadaşlarımla biriktirdiğim anıları saklamak için hazırladım. Bir anı ve arşiv olarak burada tutuyorum.
+**Memories PM**, ilk projelerimden biridir. HTML, CSS ve JavaScript öğrenirken, PUBG'de arkadaşlarımla biriktirdiğim anıları saklamak için hazırladım. Bir anı ve arşiv olarak burada tutuyorum.
 
 ## <a id="features"></a> ✨ Özellikler
 
-- **Hatıralar**: Arkadaşlarımla oynadığım oyunlardan ekran görüntülerini gösteren bir sayfa.
+- **Hatıralar**: Arkadaşlarımla oynadığım oyunlardan ekran görüntülerini gösteren bir sayfa. Bir ekran görüntüsüne tıklayarak büyük hâlini görün.
 - **Hakkımda**: PUBG kimliğimin yer aldığı kısa bir sayfa.
 - **Sosyal bağlantılar**: Ana sayfada Discord, Instagram ve TikTok hesaplarım.
 
 ## <a id="tech"></a> 🛠️ Teknolojiler
 
-`HTML` · `CSS`
+`HTML` · `CSS` · `JavaScript`
 
 ## <a id="setup"></a> 🚀 Kurulum
 

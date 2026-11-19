@@ -19,6 +19,7 @@
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
 
   <p>
@@ -40,17 +41,17 @@
 
 ## <a id="about"></a> 📋 About
 
-**Memories PM** is one of my very first projects. I built it while I was learning HTML and CSS, to keep the memories I made with my friends in PUBG. I am keeping it here as an archive and a keepsake.
+**Memories PM** is one of my very first projects. I built it while I was learning HTML, CSS and JavaScript, to keep the memories I made with my friends in PUBG. I am keeping it here as an archive and a keepsake.
 
 ## <a id="features"></a> ✨ Features
 
-- **Memories**: A page that shows screenshots from the games I played with my friends.
+- **Memories**: A page that shows screenshots from the games I played with my friends. Click a screenshot to view it larger.
 - **About me**: A short page with my PUBG ID.
 - **Social links**: My Discord, Instagram and TikTok accounts on the home page.
 
 ## <a id="tech"></a> 🛠️ Tech
 
-`HTML` · `CSS`
+`HTML` · `CSS` · `JavaScript`
 
 ## <a id="setup"></a> 🚀 Setup
 
